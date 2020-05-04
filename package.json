@@ -1,6 +1,6 @@
 {
   "name": "hedit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple hex editor based on your default text editor and xxd",
   "bin": "index.js",
   "scripts": {
