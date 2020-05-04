@@ -1,0 +1,13 @@
+{
+  "name": "hedit",
+  "version": "1.0.0",
+  "description": "A simple hex editor based on your default text editor and xxd",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "repository": "https://github.com/taigah/hedit",
+  "author": "taigah.dev@gmail.com",
+  "license": "ISC"
+}
